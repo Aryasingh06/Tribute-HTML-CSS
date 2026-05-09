@@ -21,5 +21,7 @@ The project is built using HTML and CSS.
   It helps in understanding webpage structure, styling, layout creation, and responsive design fundamental.
   # output
   ![output](output/tribute.png)
+
+  
   ![output](output/tribute1.png)
   
