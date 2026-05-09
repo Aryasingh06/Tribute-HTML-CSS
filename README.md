@@ -22,6 +22,5 @@ The project is built using HTML and CSS.
   # output
   ![output](output/tribute.png)
 
-  
-  ![output](output/tribute1.png)
+
   
